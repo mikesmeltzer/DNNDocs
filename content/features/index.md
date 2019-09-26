@@ -35,6 +35,7 @@ dnnversion: 09.02.00
 * Login IP Filtering
 * Logs
 * Module-Level Caching
+* Module Injection Filters
 * Multi-site / Multi-Portal
 * Multi-Site Management
 * OAuth
